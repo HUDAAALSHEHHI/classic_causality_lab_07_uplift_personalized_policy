@@ -1,6 +1,6 @@
 🧠 Comprehensive Experiment Explanation
 
-This experiment explores the application of uplift modeling for personalized policy optimization, where causal inference methods are used to estimate individual-level treatment effects. The objective is to determine how specific interventions—such as health campaigns or marketing strategies affect different subgroups within a population. By analyzing heterogeneous treatment responses, the experiment demonstrates how data-driven policies can be tailored to maximize positive outcomes and minimize unnecessary interventions.
+This experiment explores the application of uplift modeling for personalized policy optimization, where causal inference methods are used to estimate individual-level treatment effects. The objective is to determine how specific interventions such as health campaigns or marketing strategies affect different subgroups within a population. By analyzing heterogeneous treatment responses, the experiment demonstrates how data-driven policies can be tailored to maximize positive outcomes and minimize unnecessary interventions.
 ✏️ Objective
 
 To design and evaluate a personalized decision framework using uplift modeling, which predicts the causal impact of treatments at the individual level. This approach moves beyond average treatment effects to focus on differential responses among users, enabling targeted interventions based on causal reasoning rather than correlation.
